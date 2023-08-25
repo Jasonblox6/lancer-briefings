@@ -139,11 +139,11 @@ export default {
         },
         {
           "callsign": "Mothman",
-          "alias": "??? ???",
+          "alias": "Bastian Ransburg",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Unknown",
+          "mech": "Almost Treason",
           "status": "ACTIVE"
         },
         {
@@ -158,7 +158,7 @@ export default {
       ],
       "header": {
         "planet": "Saturn - Titan",
-        "year": "5014u",
+        "year": "5016u",
         "system": "Sol",
         "gate": "Aconcagua",
         "ring": "Andes-Line",
